@@ -5,7 +5,7 @@ Projekty tworzone są hobbystycznie w czasie wolnym.
 
 ### Co tu znajdziesz:
 * Pliki źródłowe projektów.
-* Modele wyeksportowane do formatów uniwersalnych DWG SLDPRT .
+* Modele wyeksportowane do formatów uniwersalnych DWG SLDPRT.
 * Proste konstrukcje, części zamienne i prototypy.
 
 ---
